@@ -27,7 +27,11 @@ Copy code
 
 ├── README.md             # Project overview and details
 
-└── requirements.txt      # List of required Python packages
+└── requirements.txt      # - Pandas
+                            - Seaborn
+                            - Matplotlib.pyplot
+                            - Scipy
+                            - Imblearn.over_sampling
 
 Analysis Outline
 Data Cleaning and Preprocessing:
