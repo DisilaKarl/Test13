@@ -4,6 +4,8 @@ Project Overview
 
 Ce projet est issu des exercices pratiques réalisés lors de mon bootcamp en Data Science et Intelligence Artificielle. Il couvre plusieurs étapes clés de l'analyse de données, notamment Data Acquisition, Data Exploration, Data Cleaning, Data Visualization, et Feature Extraction et Selection. L'objectif est de démontrer ma maîtrise des compétences de Data Engineering et d'analyse pour identifier des tendances, prévoir des résultats futurs et analyser les facteurs influents.
 
+
+
 Dataset
 Source : [Exercices Bootcamp]
 Description : Ce dataset est utilisé pour illustrer les techniques et méthodes appliquées durant le projet. Les informations suivantes sont incluses :
@@ -11,6 +13,9 @@ Nombre d'observations : [ex. 10,000]
 Nombre de caractéristiques : [ex. 15]
 Types de caractéristiques : Categorical, Numerical
 Période couverte : [10/2024 - 11/2024]
+
+
+
 
 Project Structure
 La structure du projet est organisée comme suit :
@@ -22,6 +27,8 @@ La structure du projet est organisée comme suit :
 ├── results/              # Dossier contenant les résultats (graphes, datasets finaux, rapports)
 ├── README.md             # Présentation et détails du projet
 └── requirements.txt      # Liste des dépendances Python
+
+
 
 Analysis Outline
 
@@ -48,6 +55,9 @@ Création de visualisations pour illustrer les résultats et insights obtenus
 6. Results and Findings
 Résumé des insights, des découvertes et interprétations importantes
 
+
+
+
 Requirements
 
 Ce projet utilise les bibliothèques Python suivantes :
@@ -71,6 +81,9 @@ Installer les dépendances :
     pip install -r requirements.txt
     Exécuter les notebooks dans le dossier notebooks/ pour reproduire l'analyse.
 
+
+
+
 Results
 
 Key Findings
@@ -83,8 +96,12 @@ Next Steps
 * Exploration de nouvelles sources de données pour enrichir l'analyse
 * Améliorations possibles en intégrant d'autres méthodes de préparation et d'analyse des données
 
+
+
 Contributing
 Les contributions sont les bienvenues. Si vous souhaitez contribuer, merci de soumettre une pull request ou d’ouvrir une issue pour en discuter.
+
+
 
 License
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
