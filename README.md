@@ -1,5 +1,4 @@
 
-Bien sûr ! Voici un modèle de fichier README.md que vous pouvez utiliser pour un dépôt de projet d'analyse de données. Vous pourrez bien sûr personnaliser chaque section en fonction des détails spécifiques de votre projet.
 
 Data Analysis Project
 Project Overview
