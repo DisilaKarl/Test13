@@ -75,7 +75,7 @@ Pour installer toutes les dépendances, exécutez :
   Getting Started
 
 Cloner le répertoire :
-  git clone https://github.com/votreutilisateur/votre-repo.git
+  git clone https://github.com/DisilaKarl/Data-Analysys
 
 Installer les dépendances :
     pip install -r requirements.txt
