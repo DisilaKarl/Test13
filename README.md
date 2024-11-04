@@ -18,11 +18,17 @@ plaintext
 Copy code
 .
 ├── data/                 # Folder containing the raw and cleaned data files
+
 ├── notebooks/            # Jupyter notebooks for data exploration and analysis
+
 ├── src/                  # Source code, including helper functions and scripts
+
 ├── results/              # Folder containing results like plots, final datasets, and reports
+
 ├── README.md             # Project overview and details
+
 └── requirements.txt      # List of required Python packages
+
 Analysis Outline
 Data Cleaning and Preprocessing:
 
